@@ -49,7 +49,7 @@ All benchmarks run on Apple Silicon (release build, `cargo build --release`). No
 Requires [Rust](https://rustup.rs/) (stable, 1.70+).
 
 ```bash
-git clone https://github.com/trvlabs/rdm_twin_density
+git clone https://github.com/trvengine/rdm_twin_density
 cd rdm_twin_density
 cargo build --release
 ```
